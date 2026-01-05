@@ -1,1 +1,1 @@
---minPsize 0.1 --psizeInflate 1.7321 --viewShiftRange 0.1
+--method 1 --upsample 2 --resize 0.285 --psizeInflate 2.598
